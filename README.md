@@ -5,6 +5,9 @@ forked yolov5主要是yolov5最近发布了release 6.1b版本，主要更新内�
 yolov5 release 6.1版本增加了`TensorRT`、`Edge TPU`和`OpenVINO`的支持，并提供了新的默认单周期线性LR调度器，以128批处理大小的再训练模型。YOLOv5现在正式支持11种不同的权重，不仅可以直接导出，还可以用于推理(detect.py和PyTorch Hub)，以及在导出后对mAP配置文件和速度结果进行验证。
 
 
+[具体更新可以参考这篇文章](https://mp.weixin.qq.com/s/RQQB_DzDCDho2ubnHidBCA)
+
+
 主要向学习一下yolov5在边缘设备上进行部署使用！
 
 
